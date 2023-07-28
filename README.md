@@ -6,11 +6,9 @@
 Сначала просим пользователя ввести int m.
 делаем массив
 дальше for loop который мы делаем пока i < stringArray.Length  ||  
-
 потом еще один for loop который мы тоже делаем пока i<stringArray.Length  ||  
-
 еще один for loop который мы делаем пока i < stringArray.Length  ||  
-и если stringArray[i].Length <=3 то мы делаем rez[j] = stringArray[i]; j++;,
+и если stringArray[i].Length <=3 то мы делаем rez[j] = stringArray[i]; j++; , 
 иначе return rez;
 еще один for loop который мы делаем пока i < stringArray.Length  ||  
 и выводим stringArray[i]  ||  
